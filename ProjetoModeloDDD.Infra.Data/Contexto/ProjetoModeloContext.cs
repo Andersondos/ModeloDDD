@@ -10,7 +10,7 @@ namespace ProjetoModeloDDD.Infra.Data.Contexto
     {
         public ProjetoModeloContext() : base("ProjetoModeloDDD")
         {
-
+            var ensureDLLIsCopied = System.Data.Entity.SqlServer.SqlProviderServices.Instance;
         }
 
         public DbSet<Cliente> Clientes { get; set; }

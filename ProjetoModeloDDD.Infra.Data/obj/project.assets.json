@@ -22,7 +22,6 @@
       },
       "ProjetoModeloDDD.Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETFramework,Version=v4.7.2",
         "compile": {
           "bin/placeholder/ProjetoModeloDDD.Domain.dll": {}
         },
@@ -52,7 +51,6 @@
       },
       "ProjetoModeloDDD.Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETFramework,Version=v4.7.2",
         "compile": {
           "bin/placeholder/ProjetoModeloDDD.Domain.dll": {}
         },
@@ -82,7 +80,6 @@
       },
       "ProjetoModeloDDD.Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETFramework,Version=v4.7.2",
         "compile": {
           "bin/placeholder/ProjetoModeloDDD.Domain.dll": {}
         },
@@ -112,7 +109,6 @@
       },
       "ProjetoModeloDDD.Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETFramework,Version=v4.7.2",
         "compile": {
           "bin/placeholder/ProjetoModeloDDD.Domain.dll": {}
         },
@@ -213,9 +209,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://dv-docker-01:5555/v3/index.json": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://tegmasoftware.pkgs.visualstudio.com/_packaging/desenvolvimento/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net472": {
